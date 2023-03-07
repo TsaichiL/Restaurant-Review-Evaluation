@@ -6,6 +6,10 @@ Here we focus on a specific restaurant "J KARAOKE BAR", which is one of the 119 
 ## Dataset
 The dataset used in this project was sourced from a reliable online repository available at "https://github.com/zarkem/emiba-ai/blob/main/las_vegas_restaurants_2017.csv?raw=true". The dataset comprised a total of 2730 rows and 12 columns, consisting of various attributes such as business_id, name, neighborhood, city, state, overall_rating, review_count, categories, review_id, review_rating, date, and text. Specifically, the dataset was limited to only overall 5-star rating reviews of restaurants located in Las Vegas during the year 2017.
 
+#### Sample of the first reviews:
+![image](https://user-images.githubusercontent.com/123428884/223582315-56e30eca-ff90-432c-b565-0330dbac1112.png)
+
+
 ## Result
 ### Summary of the Reviews
 People like most about J KARAOKE BAR are
